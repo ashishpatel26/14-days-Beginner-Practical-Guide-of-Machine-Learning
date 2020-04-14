@@ -1,5 +1,7 @@
 ## 14 days Beginner Practical Guide of Machine Learning
 
+##### Note : All Dataset you can find in github link
+
 | Date                              | Algorithm                                                    | Practical                                                    |
 | --------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Day 1**                         | [How   To Talk About Data in Machine Learning](https://machinelearningmastery.com/data-terminology-in-machine-learning/) |                                                              |
